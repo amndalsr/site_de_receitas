@@ -6,7 +6,7 @@
 
 ### Sobre o projeto: 
 
-Foi proposto na disciplina de Programação Web e Mobile, da faculdade, e contém em seu conteúdo:
+Foi proposto na disciplina de Programação Web e Mobile, da faculdade, e contém:
 - Receitas variadas
 - Sessão de novidades
 - Sessão explicando sobre o site
